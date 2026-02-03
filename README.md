@@ -16,7 +16,6 @@ The `dagMI` package implements multilinear inequality tests for directed acyclic
 This package accompanies the paper:
 
 > Zambrano, E. (2026). "Testing Causal DAG Structures via Multilinear Inequalities."
-> *Journal of the American Statistical Association* (under revision).
 
 The paper establishes the theoretical foundation for using density-corrected Carbery inequalities to test causal DAG structures, including:
 
