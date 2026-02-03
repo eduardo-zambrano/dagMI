@@ -36,5 +36,5 @@ LinkingTo:
     RcppArmadillo
 Config/testthat/edition: 3
 VignetteBuilder: knitr
-URL: https://github.com/ezambrano/dagMI
-BugReports: https://github.com/ezambrano/dagMI/issues
+URL: https://github.com/eduardo-zambrano/dagMI
+BugReports: https://github.com/eduardo-zambrano/dagMI/issues

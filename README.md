@@ -29,7 +29,7 @@ The paper establishes the theoretical foundation for using density-corrected Car
 ```r
 # Install from GitHub (development version)
 # install.packages("devtools")
-devtools::install_github("ezambrano/dagMI")
+devtools::install_github("eduardo-zambrano/dagMI")
 ```
 
 ## Quick Start
@@ -177,4 +177,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contributing
 
-Issues and pull requests welcome at [GitHub](https://github.com/ezambrano/dagMI).
+Issues and pull requests welcome at [GitHub](https://github.com/eduardo-zambrano/dagMI).
