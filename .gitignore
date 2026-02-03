@@ -1,0 +1,32 @@
+# R build files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+.Rproj.user
+
+# Compiled files
+*.o
+*.so
+*.dll
+src/*.o
+src/*.so
+src/*.dll
+
+# Package build
+*.tar.gz
+*.tgz
+*.zip
+
+# IDE
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation builds (optional - can track these for distribution)
+# man/*.Rd
+# NAMESPACE
